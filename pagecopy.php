@@ -1,8 +1,8 @@
 <div class="dom-content">
     <div class="dom-row pad-bottom-20" style="background-color:#3bb6db; color:#3bb6db">-</div>
     <div class="top-20 text-center">
-        <p class="dom-font-1 font-size-50">ANDRIAMASINAVALONA DAVIDSON xxx</p>    
-        <p class="dom-font-2 font-size-50">+261 34 60 131 54 000</p>
+        <p class="dom-font-1 font-size-50">ANDRIAMASINAVALONA DAVIDSON</p>    
+        <p class="dom-font-2 font-size-50">+261 34 60 131 54</p>
     </div>
     <div class="top-50 text-center">
             <p class="dom-font-2 font-size-50">HTML to PDF</p>

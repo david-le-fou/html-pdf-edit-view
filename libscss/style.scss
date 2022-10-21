@@ -11,7 +11,7 @@
         }
    }
 }
-.dom_font_2{
+.dom-font-2{
     font: normal font_2;
     @for $i from 10 through 100 {
         &.font-size-#{$i}{
@@ -19,7 +19,7 @@
         }
     }
 }
-.dom_font_1{
+.dom-font-1{
     font: normal font_1 !important;
     @for $i from 10 through 100 {
         &.font-size-#{$i}{
