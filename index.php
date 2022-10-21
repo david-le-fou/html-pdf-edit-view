@@ -3,6 +3,8 @@
     Avant d'utiliser le librairie css (libscss) modifier d'abord le fichier FontMetrics.php est chager 
     $chrootValid !== true en $chrootValid == true
     donner droit 777 au dossier dompdf/lib
+
+    test ok ok
 */
 include 'function.php';
 $nom_fichier_pdf = 'test';
